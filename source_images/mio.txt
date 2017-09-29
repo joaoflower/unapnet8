@@ -1,0 +1,2 @@
+password('upsclogin')                     
+*CB143E366D7F5DB8E9B99C7E7946BFB0528D997A 

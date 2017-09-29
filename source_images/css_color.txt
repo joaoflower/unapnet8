@@ -1,0 +1,9 @@
+		Verder		Azul
+Fnd Menu hover	#6A783A		#180FCA 	Muy oscuro
+Fondo menu	#9BAE5A		#7C76F5		Oscuro
+Fondo Submenu	#D3DF91		#D8D6FC 	claro	
+Fondo boton	#F1F5DC		#F2F1FE		Muy Claro
+
+Texto input	#232813		#100A8D 
+Fondo input	#FCFDF7		#FAFAFF	
+
